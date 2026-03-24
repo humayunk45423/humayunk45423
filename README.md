@@ -1,4 +1,4 @@
-#<h1 align="center">Hi, I'm Humayun</h1>
+<h1 align="center">Hi, I'm Humayun</h1>
 
 <h3 align="center">CSE Engineer | Professional Graphic Designer | Problem Solver</h3>
 
