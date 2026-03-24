@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Professional+Graphic+Designer;3D+Modeling+%26+Blender+Artist;Upwork+Freelancer;Excel+%26+Google+Sheets+Specialist;Building+Smart+Engineer+App" />
 </p>
 
----
+
 
 ## Profile Views & Badges
 
