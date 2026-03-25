@@ -27,56 +27,21 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 
 # Services / Skills
 
-<table width="100%">
-  <tr>
-    <th width="50%" align="left">🎨 Graphic Design</th>
-    <th width="50%" align="left">💻 Language & Specialized</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Logo Design</li>
-        <li>Banner Design</li>
-        <li>Poster Design</li>
-        <li>Business Card Design</li>
-        <li>Social Media Advertisement Design</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <strong>Language</strong>
-      <ul>
-        <li>C, C++, Python</li>
-        <li>VBS (Windows), HTML, CSS, JavaScript</li>
-      </ul>
-      <strong>Specialized Work</strong>
-      <ul>
-        <li>Dawah / Islamic Design</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th width="50%" align="left">📊 Data & Office Work</th>
-    <th width="50%" align="left">🧊 3D & Blender Skills</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Microsoft Excel</li>
-        <li>Google Sheets</li>
-        <li>Data Entry & Lead Generation</li>
-      </ul>
-      <br><br><br> </td>
-    <td valign="top">
-      <ul>
-        <li>3D Modeling</li>
-        <li>Rendering & Lighting</li>
-        <li>Architectural Visualization</li>
-      </ul>
-      <br><br><br> </td>
-  </tr>
-</table>
+| 🎨 Graphic Design                   | 💻 Language & Specialized             |
+| :---                                | :---                                   |
+| • Logo Design                       | **Language**                           |
+| • Banner Design                     | • C, C++, Python                       |
+| • Poster Design                     | • VBS (Windows), HTML, CSS, JavaScript |
+| • Business Card Design              | **Specialized Work**                   |
+| • Social Media Advertisement Design | • Dawah / Islamic Design               |
 
-<br>
+| 📊 Data & Office Work               | 🧊 3D & Blender Skills                |
+| :---                                | :---                                   |
+| • Microsoft Excel                   | • 3D Modeling                          |
+| • Google Sheets                     | • Rendering & Lighting                 |
+| • Data Entry & Lead Generation      | • Architectural Visualization          |
+
+---
 
 ### 🖥️ PC Software & Hardware Skills
 * **PC Hardware Troubleshooting:** Identifying faulty components, diagnosing boot failures using POST/Beep codes, and optimizing system thermals for stable performance.
@@ -90,6 +55,7 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 * **Electronics Basics:** Practical knowledge of analog and digital electronics, testing circuits with a multimeter, and building projects on breadboards using resistors, capacitors, and other common components.
 * **Power & Voltage Systems:** Designing rechargeable fans with adjustable speed control, integrating DC-DC buck/boost converters, TP4056 charging modules, and voltage regulator ICs with proper capacitor integration for stability.
 * **Basic Soldering & Component Assembly:** Skilled in through-hole soldering, desoldering components, and maintaining clean soldering tools for reliable electronics assembly.
+* 
 ## Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Great_Media_7280/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayounkobirkiron/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/t6SJQwdj)  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/humayounkobir)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20905785)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/humayunk45423)  
