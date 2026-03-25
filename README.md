@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Humayoun</h1>
 
-<h3 align="center">"Design with purpose. Work with intelligence. Grow with consistency."</h3>
+<h3 align="center">"Design with purpose | Work with intelligence | Grow with consistency."</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;3D+Modeling+%26+Beginner+Blender+Artist;Upwork+Freelancer;Excel+%26+Google+Sheets+Specialist" />
