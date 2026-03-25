@@ -76,7 +76,7 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
         <li><a href="https://maps.app.goo.gl/7PpCEz7gNdqPHEnYA">Banner Design</a></li>
         <li><a href="https://i.postimg.cc/DfS3Wc9p/Mobile_Express_Business_Card.png">Business Card Design</a></li>
         <li><a href="https://i.postimg.cc/rmdZpfD0/Mobile_Express_Cash_Memo.png">Cash Memo Design</a></li>
-      </ul>
+      </ul><br>
     </td>
     <td width="50%" valign="top">
       <h3>📍 Fuad Mobile Point</h3>
@@ -85,7 +85,7 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
         <li><a href="https://i.postimg.cc/4dCVzP8c/Fuad_Mobile_Point_Banner.png">Banner Design</a></li>
         <li><a href="https://i.postimg.cc/9Mp0rYKv/Artboard_1B_Card.png">Business Card Design</a></li>
         <li><a href="https://i.postimg.cc/Yq42H7rJ/Screenshot_2026_03_25_172443.png">Cash Memo Design</a></li>
-      </ul>
+      </ul><br>
     </td>
   </tr>
   <tr>
