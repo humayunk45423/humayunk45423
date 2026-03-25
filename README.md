@@ -53,14 +53,14 @@ May Allah grant success, peace, and prosperity to all.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏪 Sadia Variety Store</h3>
+      <h3> Sadia Variety Store</h3>
       <ul>
         <li><a href="https://maps.app.goo.gl/M4JL9vnC1bjpBjrp7">Banner Design</a></li>
         <li><a href="https://i.postimg.cc/JtwzFYkZ/Artboard_1logo_name_choto.png">Poster Design</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Tadrib Academy</h3>
+      <h3> Tadrib Academy</h3>
       <ul>
         <li><a href="https://i.postimg.cc/XYt6kB9y/415043082_122093206244186305_1002341150726708714_n.jpg">Logo Design</a></li>
         <li><a href="https://i.postimg.cc/rsqkt6xB/Artboard_1.png">Facebook Ads Poster</a></li>
@@ -71,7 +71,7 @@ May Allah grant success, peace, and prosperity to all.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Express</h3>
+      <h3> Mobile Express</h3>
       <ul>
         <li><a href="https://maps.app.goo.gl/NdeX5h3EM9D5ye6M6">Logo Design</a></li>
         <li><a href="https://maps.app.goo.gl/7PpCEz7gNdqPHEnYA">Banner Design</a></li>
