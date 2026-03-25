@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Humayoun</h1>
 
-<h3 align="center">CSE Engineer | Professional Graphic Designer | Beginner 3D Artist</h3>
+<h3 align="center">"Design with purpose. Work with intelligence. Grow with consistency."</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;3D+Modeling+%26+Beginner+Blender+Artist;Upwork+Freelancer;Excel+%26+Google+Sheets+Specialist" />
@@ -127,13 +127,7 @@ May Allah grant success, peace, and prosperity to all.
 
 
 ## GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=humayunk45423&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## Motto
-"Design with purpose. Work with intelligence. Grow with consistency."
-
 
 
 ## Contact
