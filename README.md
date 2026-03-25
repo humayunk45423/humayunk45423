@@ -28,19 +28,18 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 ## 🛠️ Services / Skills
 
 | 🎨 Graphic Design | 💻 Language | 📊 Data Work | 🧊 3D Skills |
-|------------------|------------|-------------|-------------|
+|:----------------:|:-----------:|:------------:|:------------:|
 | Logo Design | C, C++, Python | Microsoft Excel | 3D Modeling |
 | Banner Design | HTML, CSS, JavaScript | Google Sheets | Rendering & Lighting |
 | Poster Design | VBS (Windows) | Data Entry & Lead Generation | Architectural Visualization |
-| Business Card Design |  |  |  |
-| Social Media Ads |  |  |  |
----
+| Business Card Design | Git & GitHub | Data Processing | 3D Asset Optimization |
+| Social Media Ads | Basic Debugging | Web Research | Scene Setup & Composition |
 
 ## 🛠️ Advanced Skills
 
 | 🖥️ PC Software & Hardware Skills | ⚡ Electronics & DIY Projects |
-|----------------------------------|------------------------------|
-| **PC Hardware Troubleshooting:** Identifying faulty components, diagnosing boot failures using POST/Beep codes, and optimizing system thermals for stable performance.<br><br> **Hardware Setup & Maintenance:** Reseating RAM, applying thermal paste, configuring BIOS/CMOS settings, and assembling custom UPS systems with 3S BMS.<br><br> **OS Deployment:** Installing operating systems and optimizing performance by removing bloatware and unnecessary background services.<br><br> **Mobile Customization:** Flashing custom ROMs and recovery environments for improved speed and features. | **Electronics Basics:** Practical knowledge of analog and digital electronics, testing circuits with a multimeter, and building projects on breadboards.<br><br> **Power & Voltage Systems:** Designing rechargeable systems using DC-DC converters, TP4056 modules, and voltage regulators with proper capacitor integration.<br><br> **Basic Soldering & Assembly:** Skilled in soldering, desoldering, and maintaining clean tools for reliable electronics work.<br><br><br><br> |
+|:--------------------------------:|:-----------------------------:|
+| **Hardware Troubleshooting** <br> Fault detection, POST/Beep diagnosis, thermal optimization <br><br> **Setup & Maintenance** <br> RAM reseating, thermal paste, BIOS/CMOS config, custom UPS (3S BMS) <br><br> **OS Deployment** <br> OS installation, debloating, performance tuning <br><br> **Mobile Customization** <br> Custom ROM & recovery flashing | **Electronics Basics** <br> Analog/digital circuits, multimeter testing, breadboard prototyping <br><br> **Power Systems** <br> DC-DC converters, TP4056 modules, voltage regulators <br><br> **DIY Projects** <br> Rechargeable systems, fan speed control circuits <br><br> **Soldering Skills** <br> Soldering, desoldering, clean assembly practices |
 ## Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Great_Media_7280/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayounkobirkiron/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/t6SJQwdj)  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/humayounkobir)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20905785)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/humayunk45423)  
