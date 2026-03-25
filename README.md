@@ -29,47 +29,53 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 
 <table width="100%">
   <tr>
-    <th width="50%">🎨 Graphic Design</th>
-    <th width="50%">💻 Language & Specialized</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Logo Design<br>
-      • Banner Design<br>
-      • Poster Design<br>
-      • Business Card Design<br>
-      • Social Media Advertisement Design
+    <td width="50%" valign="top">
+      <strong>🎨 Graphic Design</strong><hr>
+      <ul>
+        <li>Logo Design</li>
+        <li>Banner Design</li>
+        <li>Poster Design</li>
+        <li>Business Card Design</li>
+        <li>Social Media Advertisement Design</li>
+      </ul>
     </td>
-    <td valign="top">
-      <strong>Language</strong><br>
-      • C, C++, Python<br>
-      • VBS (Windows), HTML, CSS, JavaScript<br>
-      <strong>Specialized Work</strong><br>
-      • Dawah / Islamic Design
+    <td width="50%" valign="top">
+      <strong>💻 Language & Specialized</strong><hr>
+      <strong>Language</strong>
+      <ul>
+        <li>C, C++, Python</li>
+        <li>VBS (Windows), HTML, CSS, JavaScript</li>
+      </ul>
+      <strong>Specialized Work</strong>
+      <ul>
+        <li>Dawah / Islamic Design</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <th width="50%">📊 Data & Office Work</th>
-    <th width="50%">🧊 3D & Blender Skills</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Microsoft Excel<br>
-      • Google Sheets<br>
-      • Data Entry & Lead Generation
-    </td>
-    <td valign="top">
-      • 3D Modeling<br>
-      • Rendering & Lighting<br>
-      • Architectural Visualization
-    </td>
+    <td width="50%" valign="top">
+      <strong>📊 Data & Office Work</strong><hr>
+      <ul>
+        <li>Microsoft Excel</li>
+        <li>Google Sheets</li>
+        <li>Data Entry & Lead Generation</li>
+      </ul>
+      <br><br> </td>
+    <td width="50%" valign="top">
+      <strong>🧊 3D & Blender Skills</strong><hr>
+      <ul>
+        <li>3D Modeling</li>
+        <li>Rendering & Lighting</li>
+        <li>Architectural Visualization</li>
+      </ul>
+      <br><br> </td>
   </tr>
 </table>
 
----
+<br>
 
 ### 🖥️ PC Software & Hardware Skills
 * **PC Hardware Troubleshooting:** Identifying faulty components, diagnosing boot failures using POST/Beep codes, and optimizing system thermals for stable performance.
