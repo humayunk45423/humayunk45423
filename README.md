@@ -29,8 +29,11 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>🎨 Graphic Design</strong><hr>
+    <th width="50%" align="left">🎨 Graphic Design</th>
+    <th width="50%" align="left">💻 Language & Specialized</th>
+  </tr>
+  <tr>
+    <td valign="top">
       <ul>
         <li>Logo Design</li>
         <li>Banner Design</li>
@@ -39,8 +42,7 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
         <li>Social Media Advertisement Design</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <strong>💻 Language & Specialized</strong><hr>
+    <td valign="top">
       <strong>Language</strong>
       <ul>
         <li>C, C++, Python</li>
@@ -52,26 +54,25 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
       </ul>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>📊 Data & Office Work</strong><hr>
+    <th width="50%" align="left">📊 Data & Office Work</th>
+    <th width="50%" align="left">🧊 3D & Blender Skills</th>
+  </tr>
+  <tr>
+    <td valign="top">
       <ul>
         <li>Microsoft Excel</li>
         <li>Google Sheets</li>
         <li>Data Entry & Lead Generation</li>
       </ul>
-      <br><br> </td>
-    <td width="50%" valign="top">
-      <strong>🧊 3D & Blender Skills</strong><hr>
+      <br><br><br> </td>
+    <td valign="top">
       <ul>
         <li>3D Modeling</li>
         <li>Rendering & Lighting</li>
         <li>Architectural Visualization</li>
       </ul>
-      <br><br> </td>
+      <br><br><br> </td>
   </tr>
 </table>
 
