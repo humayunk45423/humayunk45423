@@ -37,9 +37,9 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 
 ## 🛠️ Advanced Skills
 
-| 🖥️ PC Software & Hardware Skills | ⚡ Electronics & DIY Projects |
-|:--------------------------------:|:-----------------------------:|
-| **Hardware Troubleshooting** <br> Fault detection, POST/Beep diagnosis, thermal optimization <br><br> **Setup & Maintenance** <br> RAM reseating, thermal paste, BIOS/CMOS config, custom UPS (3S BMS) <br><br> **OS Deployment** <br> OS installation, debloating, performance tuning <br><br> **Mobile Customization** <br> Custom ROM & recovery flashing | **Electronics Basics** <br> Analog/digital circuits, multimeter testing, breadboard prototyping <br><br> **Power Systems** <br> DC-DC converters, TP4056 modules, voltage regulators <br><br> **DIY Projects** <br> Rechargeable systems, fan speed control circuits <br><br> **Soldering Skills** <br> Soldering, desoldering, clean assembly practices |
+| 🖥️ PC Software & Hardware Skills |  | ⚡ Electronics & DIY Projects |  |
+|:--------------------------------:|:-:|:-----------------------------:|:-:|
+| **Hardware Troubleshooting** <br> Fault detection, POST/Beep diagnosis, thermal optimization <br><br> **Setup & Maintenance** <br> RAM reseating, thermal paste, BIOS/CMOS config, custom UPS (3S BMS) <br><br> **OS Deployment** <br> OS install & optimization <br><br> **Mobile Customization** <br> ROM & recovery flashing |  | **Electronics Basics** <br> Analog/digital circuits, multimeter testing, breadboard work <br><br> **Power Systems** <br> DC-DC converters, TP4056, regulators <br><br> **DIY Projects** <br> Rechargeable systems, fan control <br><br> **Soldering** <br> Soldering & desoldering skills |  |
 ## Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Great_Media_7280/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayounkobirkiron/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/t6SJQwdj)  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/humayounkobir)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20905785)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/humayunk45423)  
