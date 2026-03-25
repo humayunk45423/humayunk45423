@@ -47,6 +47,68 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 - **Electronics Basics:** Practical knowledge of analog and digital electronics, testing circuits with a multimeter, and building projects on breadboards using resistors, capacitors, and other common components.
 - **Power & Voltage Systems:** Designing rechargeable fans with adjustable speed control, integrating DC-DC buck/boost converters, TP4056 charging modules, and voltage regulator ICs with proper capacitor integration for stability.
 - **Basic Soldering & Component Assembly:** Skilled in through-hole soldering, desoldering components, and maintaining clean soldering tools for reliable electronics assembly.
+
+# 🚀 Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏪 Sadia Variety Store</h3>
+      <ul>
+        <li><a href="https://maps.app.goo.gl/M4JL9vnC1bjpBjrp7">Banner Design</a></li>
+        <li><a href="https://i.postimg.cc/JtwzFYkZ/Artboard_1logo_name_choto.png">Poster Design</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Tadrib Academy</h3>
+      <ul>
+        <li><a href="https://i.postimg.cc/XYt6kB9y/415043082_122093206244186305_1002341150726708714_n.jpg">Logo Design</a></li>
+        <li><a href="https://i.postimg.cc/rsqkt6xB/Artboard_1.png">Facebook Ads Poster</a></li>
+        <li><a href="https://i.postimg.cc/fRVhdftB/Artboard_1_4x.png">Marketplace Ads Run</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Express</h3>
+      <ul>
+        <li><a href="https://maps.app.goo.gl/NdeX5h3EM9D5ye6M6">Logo Design</a></li>
+        <li><a href="https://maps.app.goo.gl/7PpCEz7gNdqPHEnYA">Banner Design</a></li>
+        <li><a href="https://i.postimg.cc/DfS3Wc9p/Mobile_Express_Business_Card.png">Business Card Design</a></li>
+        <li><a href="https://i.postimg.cc/rmdZpfD0/Mobile_Express_Cash_Memo.png">Cash Memo Design</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📍 Fuad Mobile Point</h3>
+      <ul>
+        <li><a href="https://i.postimg.cc/0yMzcmKN/Artboard_1logo_wng_bn_Card.png">Logo Design</a></li>
+        <li><a href="https://i.postimg.cc/4dCVzP8c/Fuad_Mobile_Point_Banner.png">Banner Design</a></li>
+        <li><a href="https://i.postimg.cc/9Mp0rYKv/Artboard_1B_Card.png">Business Card Design</a></li>
+        <li><a href="https://i.postimg.cc/Yq42H7rJ/Screenshot_2026_03_25_172443.png">Cash Memo Design</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Upwork Projects</h3>
+      <ul>
+        <li><a href="https://www.upwork.com/freelancers/~019f94538da41f401d?p=1736756878200664064">Excel Data Entry (40k Car Database)</a></li>
+        <li><a href="https://www.upwork.com/freelancers/~019f94538da41f401d?p=1734862411675783168">Lead Generation</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Document Work</h3>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=iik25wqIuFo">Various Documents Edit</a></li>
+        <li><a href="https://www.youtube.com/watch?v=x5RwzioNiiM">Recreation Work</a></li>
+        <li><a href="https://www.youtube.com/shorts/TajAzT3CVJc">Redesign</a></li>
+        <li><a href="https://www.youtube.com/watch?v=GflERixWj6g">Recovery</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ## Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Great_Media_7280/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayounkobirkiron/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/t6SJQwdj)  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/humayounkobir)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20905785)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/humayunk45423)  
@@ -61,19 +123,6 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=humayunk45423&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-## Featured Project
-
-  Smart Engineer
-
-- Book buy and sell system  
-- Chat system  
-- PDF resources  
-- CGPA calculator  
-- BTEB notices and results  
-
 
 
 ## Motto
