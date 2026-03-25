@@ -25,22 +25,15 @@ Currently, I am preparing for admission to Dhaka University of Engineering & Tec
 My areas of interest include Graphic Design, 3D Modeling, and Data Entry work. I am always eager to engage in new projects, contribute meaningfully, and continuously develop my skills.
 May Allah grant success, peace, and prosperity to all. 🤲✨
 
-# Services / Skills
+## 🛠️ Services / Skills
 
-| 🎨 Graphic Design                   | 💻 Language & Specialized             |
-| :---                                | :---                                   |
-| • Logo Design                       | **Language**                           |
-| • Banner Design                     | • C, C++, Python                       |
-| • Poster Design                     | • VBS (Windows), HTML, CSS, JavaScript |
-| • Business Card Design              | **Specialized Work**                   |
-| • Social Media Advertisement Design | • Dawah / Islamic Design               |
-
-| 📊 Data & Office Work               | 🧊 3D & Blender Skills                |
-| :---                                | :---                                   |
-| • Microsoft Excel                   | • 3D Modeling                          |
-| • Google Sheets                     | • Rendering & Lighting                 |
-| • Data Entry & Lead Generation      | • Architectural Visualization          |
-
+| 🎨 Graphic Design | 💻 Language | 📊 Data Work | 🧊 3D Skills |
+|------------------|------------|-------------|-------------|
+| Logo Design | C, C++, Python | Microsoft Excel | 3D Modeling |
+| Banner Design | HTML, CSS, JavaScript | Google Sheets | Rendering & Lighting |
+| Poster Design | VBS (Windows) | Data Entry & Lead Generation | Architectural Visualization |
+| Business Card Design |  |  |  |
+| Social Media Ads |  |  |  |
 ---
 
 ### 🖥️ PC Software & Hardware Skills
