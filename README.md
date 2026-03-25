@@ -25,37 +25,36 @@ Currently, I am preparing for admission to Dhaka University of Engineering & Tec
 My areas of interest include Graphic Design, 3D Modeling, and Data Entry work. I am always eager to engage in new projects, contribute meaningfully, and continuously develop my skills.
 May Allah grant success, peace, and prosperity to all. 🤲✨
 
-##
-Services I Offer
-Graphic Design:
-- Banner Design (Professional and Advertising)  
-- Poster Design  
-- Product Advertisement Design  
-- Business Card Design  
-- Social Media Design  
+# Services / Skills
 
-##
+| 🎨 Graphic Design | 💻 Language & Specialized |
+| :--- | :--- |
+| • Logo Design | **Language** |
+| • Banner Design | • C, C++, Python |
+| • Poster Design | • VBS (Windows), HTML, CSS, JavaScript |
+| • Business Card Design | **Specialized Work** |
+| • Social Media Advertisement Design | • Dawah / Islamic Design |
 
-Specialized Work:
-- Dawah / Islamic Design  
-- Branding and Visual Identity  
+| 📊 Data & Office Work | 🧊 3D & Blender Skills |
+| :--- | :--- |
+| • Microsoft Excel | • 3D Modeling |
+| • Google Sheets | • Rendering & Lighting |
+| • Data Entry & Lead Generation | • Architectural Visualization |
 
-##
+---
 
-Data and Office Work:
-- Microsoft Excel  
-- Google Sheets  
-- Data Entry and Lead Generation  
+### 🖥️ PC Software & Hardware Skills
+* **PC Hardware Troubleshooting:** Identifying faulty components, diagnosing boot failures using POST/Beep codes, and optimizing system thermals for stable performance.
+* **Hardware Setup & Maintenance:** Reseating RAM, applying thermal paste, configuring BIOS/CMOS settings, and assembling custom UPS systems to power multiple devices with 3S BMS for safe battery management.
+* **OS Deployment:** Installing any OS and optimizing performance by removing bloatware and unnecessary background services.
+* **Mobile Customization:** Flashing custom ROMs and recovery environments on mobile devices for improved speed and features.
 
-##
+---
 
-3D and Blender Skills
-- 3D Modeling (Hard Surface and Basic Organic)  
-- Basic Rendering and Lighting  
-- Architectural Visualization (Basic)  
-- Blender Workflow and Optimization  
-- Learning Advanced Realistic Rendering  
-
+### ⚡ Electronics & DIY Projects
+* **Electronics Basics:** Practical knowledge of analog and digital electronics, testing circuits with a multimeter, and building projects on breadboards using resistors, capacitors, and other common components.
+* **Power & Voltage Systems:** Designing rechargeable fans with adjustable speed control, integrating DC-DC buck/boost converters, TP4056 charging modules, and voltage regulator ICs with proper capacitor integration for stability.
+* **Basic Soldering & Component Assembly:** Skilled in through-hole soldering, desoldering components, and maintaining clean soldering tools for reliable electronics assembly.
 ## Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Great_Media_7280/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayounkobirkiron/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/t6SJQwdj)  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/humayounkobir)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20905785)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/humayunk45423)  
