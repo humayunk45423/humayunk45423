@@ -3,7 +3,7 @@
 <h3 align="center">CSE Engineer | Professional Graphic Designer | Beginner 3D Artist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Professional+Graphic+Designer;3D+Modeling+%26+Blender+Artist;Upwork+Freelancer;Excel+%26+Google+Sheets+Specialist;Building+Smart+Engineer+App" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;3D+Modeling+%26+Beginner+Blender+Artist;Upwork+Freelancer;Excel+%26+Google+Sheets+Specialist" />
 </p>
 
 
@@ -25,7 +25,7 @@ Currently, I am preparing for admission to Dhaka University of Engineering & Tec
 My areas of interest include Graphic Design, 3D Modeling, and Data Entry work. I am always eager to engage in new projects, contribute meaningfully, and continuously develop my skills.
 May Allah grant success, peace, and prosperity to all.
 
-#  Services / Skills
+##  Services / Skills
 
 |   Graphic Design |   Language  |   Data Work  |  3D Skills   |
 |:----------------:|:-----------:|:------------:|:------------:|
@@ -35,7 +35,7 @@ May Allah grant success, peace, and prosperity to all.
 | Business Card Design | Git & GitHub | Data Processing | 3D Asset Optimization |
 | Social Media Ads | Basic Debugging | Web Research | Scene Setup & Composition |
 
-# Advanced Skills
+## Advanced Skills
 
 ###  PC Software & Hardware Skills
 - **PC Hardware Troubleshooting:** Identifying faulty components, diagnosing boot failures using POST/Beep codes, and optimizing system thermals for stable performance.
@@ -48,7 +48,7 @@ May Allah grant success, peace, and prosperity to all.
 - **Power & Voltage Systems:** Designing rechargeable fans with adjustable speed control, integrating DC-DC buck/boost converters, TP4056 charging modules, and voltage regulator ICs with proper capacitor integration for stability.
 - **Basic Soldering & Component Assembly:** Skilled in through-hole soldering, desoldering components, and maintaining clean soldering tools for reliable electronics assembly.
 
-# Projects
+## Projects
 
 <table width="100%">
   <tr>
@@ -111,7 +111,7 @@ May Allah grant success, peace, and prosperity to all.
 </table>
 
 
-# Socials
+## Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Great_Media_7280/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayounkobirkiron/)
@@ -120,22 +120,22 @@ May Allah grant success, peace, and prosperity to all.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20905785)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/humayunk45423)
 
-# Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)  ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)  ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)  ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)  ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)  
 
 
 
-# GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=humayunk45423&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# Motto
+## Motto
 "Design with purpose. Work with intelligence. Grow with consistency."
 
 
 
-# Contact
+## Contact
 Open for freelance work | Available on Upwork  
 [Email me](mailto:huuayuunk45423@gmail.com)
