@@ -27,19 +27,47 @@ May Allah grant success, peace, and prosperity to all. 🤲✨
 
 # Services / Skills
 
-| 🎨 Graphic Design | 💻 Language & Specialized |
-| :--- | :--- |
-| • Logo Design | **Language** |
-| • Banner Design | • C, C++, Python |
-| • Poster Design | • VBS (Windows), HTML, CSS, JavaScript |
-| • Business Card Design | **Specialized Work** |
-| • Social Media Advertisement Design | • Dawah / Islamic Design |
+<table width="100%">
+  <tr>
+    <th width="50%">🎨 Graphic Design</th>
+    <th width="50%">💻 Language & Specialized</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Logo Design<br>
+      • Banner Design<br>
+      • Poster Design<br>
+      • Business Card Design<br>
+      • Social Media Advertisement Design
+    </td>
+    <td valign="top">
+      <strong>Language</strong><br>
+      • C, C++, Python<br>
+      • VBS (Windows), HTML, CSS, JavaScript<br>
+      <strong>Specialized Work</strong><br>
+      • Dawah / Islamic Design
+    </td>
+  </tr>
+</table>
 
-| 📊 Data & Office Work | 🧊 3D & Blender Skills |
-| :--- | :--- |
-| • Microsoft Excel | • 3D Modeling |
-| • Google Sheets | • Rendering & Lighting |
-| • Data Entry & Lead Generation | • Architectural Visualization |
+<table width="100%">
+  <tr>
+    <th width="50%">📊 Data & Office Work</th>
+    <th width="50%">🧊 3D & Blender Skills</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Microsoft Excel<br>
+      • Google Sheets<br>
+      • Data Entry & Lead Generation
+    </td>
+    <td valign="top">
+      • 3D Modeling<br>
+      • Rendering & Lighting<br>
+      • Architectural Visualization
+    </td>
+  </tr>
+</table>
 
 ---
 
