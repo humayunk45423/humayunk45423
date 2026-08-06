@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=humayunk45423&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/humayunk45423?label=Followers&style=for-the-badge&color=0e75b6" />
-<img src="https://img.shields.io/badge/Status-Preparing%20for%20DUET-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Preparing%20for%20Job-00F0AF?style=for-the-badge" />
 
 </div>
 
