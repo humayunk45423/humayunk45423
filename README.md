@@ -18,7 +18,7 @@
 
 **Assalamu Alaikum!** I'm a Diploma Engineering graduate in Computer Science who believes in smart strategy over sheer hard work. I'm currently preparing for Jobs furthermore to pursue a BSc in Engineering, while freelancing in graphic design, 3D modeling, and data work.
 
-- Diploma in Computer Science — currently preparing for **DUET admission**
+- Diploma in Computer Science — currently preparing for **Job**
 - Freelance Graphic Designer & 3D Artist (Blender, beginner)
 - Excel / Google Sheets specialist — data entry & lead generation on Upwork
 - Comfortable across PC hardware, electronics, and OS-level troubleshooting
