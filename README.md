@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=200&section=header&text=Humayoun%20Kobir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20%7C%20Data%20%26%203D%20Specialist%20%7C%20Upwork%20Freelancer&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm Humayoun Kobir 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Design+with+purpose;Work+with+intelligence;Grow+with+consistency." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;3D+Modeling+%26+Beginner+Blender+Artist;Upwork+Freelancer;Excel+%26+Google+Sheets+Specialist" alt="Typing SVG" />
 
 <br/>
 
@@ -199,6 +199,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00F7FF&height=100&section=footer" width="100%"/>
+<sub>Thanks for visiting my profile! ⭐ Star a repo if it helped you.</sub>
 
 </div>
