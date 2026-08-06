@@ -133,11 +133,11 @@ May Allah grant success, peace, and prosperity to all.
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humayunk45423&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=humayunk45423&theme=dark&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humayunk45423&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
