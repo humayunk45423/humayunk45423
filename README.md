@@ -16,7 +16,7 @@
 
 ## About Me
 
-**Assalamu Alaikum!** I'm a Diploma Engineering graduate in Computer Science who believes in *smart strategy over sheer hard work*. I'm currently preparing for admission to **Dhaka University of Engineering & Technology (DUET)** to pursue a BSc in Engineering, while freelancing in graphic design, 3D modeling, and data work.
+**Assalamu Alaikum!** I'm a Diploma Engineering graduate in Computer Science who believes in *smart strategy over sheer hard work*.I'm currently preparing for Jobs furthermore to pursue a BSc in Engineering, while freelancing in graphic design, 3D modeling, and data work.
 
 - Diploma in Computer Science — currently preparing for **DUET admission**
 - Freelance Graphic Designer & 3D Artist (Blender, beginner)
@@ -171,8 +171,8 @@
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=humayunk45423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunk45423&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=humayunk45423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=humayunk45423&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -180,7 +180,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=humayunk45423&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=humayunk45423&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <br/>
